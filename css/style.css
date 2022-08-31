@@ -1,5 +1,9 @@
+body{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 700;;
+}
 /* Header */
-.header{
+/* .header{
     
 }
 .header-logo{
@@ -19,15 +23,15 @@
 }
 .header-btn{
 
-}
+} */
 
 /* Main */
-.main{
+/* .main{
 
-}
+} */
 
 /* Hero */
-.hero{
+/* .hero{
 
 }
 .hero-social{
@@ -44,4 +48,4 @@
 }
 .hero-descr{
 
-}
+} */
